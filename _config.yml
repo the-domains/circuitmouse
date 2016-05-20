@@ -1,0 +1,28 @@
+name: CircuitMouse
+favicon: null
+layout_spectrum: 0.4792232729960233
+typography_spectrum: 0.5362607608549297
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8073812224902213
+  lightness: 0.08355867001228034
+  saturation: 0.7571578144561499
+  rhythmicContrast: 0.5523783864919096
+purpose: []
